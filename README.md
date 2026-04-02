@@ -102,8 +102,7 @@ src/
 
 ## Автор
 
-- GitHub: https://github.com/USERNAME  
-- Telegram: https://t.me/axawys  
+- GitHub: https://github.com/Axawys  
 
 ---
 
